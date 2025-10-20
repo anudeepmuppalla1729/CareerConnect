@@ -1,6 +1,4 @@
-# CareerConnect
-
-CareerConnect – Job Portal Platform
+# CareerConnect – Job Portal Platform
 
 A full-stack MERN application (MongoDB, Express, React, Node.js) connecting job seekers and
 employers for seamless job posting, applications, and role-based career management.
