@@ -1,5 +1,13 @@
 # CareerConnect
 
+CareerConnect – Job Portal Platform
+
+A full-stack MERN application (MongoDB, Express, React, Node.js) connecting job seekers and
+employers for seamless job posting, applications, and role-based career management.
+- Implemented role-based authentication, dynamic dashboards, job application workflows, and profile
+	management.
+- GitHub Repos
+
 Full-stack job & recruitment platform boilerplate (frontend + backend).
 
 This repository contains two main folders:
