@@ -8,7 +8,7 @@ employers for seamless job posting, applications, and role-based career manageme
 	management.
 - GitHub Repos
 
-Full-stack job & recruitment platform boilerplate (frontend + backend).
+## Full-stack job & recruitment platform boilerplate (frontend + backend).
 
 This repository contains two main folders:
 
