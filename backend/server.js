@@ -25,7 +25,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://career-connect-avi.vercel.app",
+    origin: "http://localhost:5173",
     credentials: true,
   })
 );
@@ -54,7 +54,7 @@ app.use((req, res) => {
 
 app.use(errorHandler);
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 3000;
 
 try {
   app.listen(PORT, () => {
